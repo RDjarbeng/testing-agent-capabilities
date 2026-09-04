@@ -61,10 +61,10 @@ When evaluating an agent's response, look for the following quality indicators:
 ## 📄 Raw Prompt File
 
 If you need to fetch the prompt programmatically or via CLI:
-* Raw file: [`PROMPT.md`](file:///c:/Users/Richard/RD/myprojects/testing-agent-capabilities/PROMPT.md)
+* Raw file: [PROMPT.md](PROMPT.md)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](file:///c:/Users/Richard/RD/myprojects/testing-agent-capabilities/LICENSE). Feel free to share, adapt, and incorporate into your own evaluation pipelines.
+This project is licensed under the [MIT License](LICENSE). Feel free to share, adapt, and incorporate into your own evaluation pipelines.
